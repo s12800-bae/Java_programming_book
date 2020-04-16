@@ -19,7 +19,7 @@ public class Student {
 	public void setStudentName(String name) {
 		studentName = name;
 	}
-
+..
 	public void showStudentInfo() {
 		System.out.println(studentName + "," + studentAddress);  	//이름,주소 출력
 	}
